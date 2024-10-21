@@ -26,9 +26,12 @@ def get_item(item_id):
     return jsonify(item)
 
 
-@app.get("/check")
-def check():
-    return todo_items
+@app.route("/add-item",methods=["GET","POST"])
+def add_item():
+    new_item=request.get_json()
+    print(new_item)
+    todo_items.append(new_item)
+    return {"message":"new data added successfully......"}
 
 
 
