@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - AY's Dishes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #222;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .hero-section {
+            background-image: url('hero-image.jpg');
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+            padding: 100px 20px;
+            text-align: center;
+        }
+        .hero-section h1 {
+            font-size: 48px;
+            margin: 0;
+        }
+        .hero-section p {
+            font-size: 20px;
+            margin-top: 10px;
+        }
+        .dishes-section {
+            padding: 50px 20px;
+        }
+        .dishes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .dish-item {
+            background-color: #333;
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+        }
+        .dish-item img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+        .dish-item h3 {
+            margin: 15px 0 10px 0;
+            font-size: 22px;
+        }
+        .dish-item p {
+            font-size: 16px;
+            color: #ccc;
+        }
+        .dish-item button {
+            padding: 10px 20px;
+            background-color: #f76b1a;
+            border: none;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .dish-item button:hover {
+            background-color: #e65c00;
+        }
+        footer {
+            background-color: #333;
+            color: #ccc;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        Welcome to AY's Dishes
+    </header>
+
+    <div class="hero-section">
+        <h1>Delicious Dishes Await You!</h1>
+        <p>Explore our wide range of mouth-watering meals crafted just for you.</p>
+    </div>
+
+    <section class="dishes-section">
+        <h2 style="text-align: center;">Our Featured Dishes</h2>
+        <div class="dishes-grid">
+            <!-- Dish 1 -->
+            <div class="dish-item">
+                <img src="pizza.jpg" alt="Pizza">
+                <h3>Cheesy Pizza</h3>
+                <p>A delightful combination of cheese, sauce, and toppings on a crispy crust.</p>
+                <button>Order Now</button>
+            </div>
+            <!-- Dish 2 -->
+            <div class="dish-item">
+                <img src="burger.jpg" alt="Burger">
+                <h3>Classic Burger</h3>
+                <p>A juicy beef patty with fresh vegetables and sauces in a soft bun.</p>
+                <button>Order Now</button>
+            </div>
+            <!-- Dish 3 -->
+            <div class="dish-item">
+                <img src="pasta.jpg" alt="Pasta">
+                <h3>Creamy Pasta</h3>
+                <p>Rich and creamy pasta with the perfect blend of herbs and cheese.</p>
+                <button>Order Now</button>
+            </div>
+            <!-- Dish 4 -->
+            <div class="dish-item">
+                <img src="dessert.jpg" alt="Dessert">
+                <h3>Chocolate Dessert</h3>
+                <p>Indulge in a rich chocolate dessert that melts in your mouth.</p>
+                <button>Order Now</button>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        &copy; 2024 AY's Dishes | All rights reserved.
+    </footer>
+
+</body>
+</html>
