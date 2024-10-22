@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/110595570574641665/50fef6074b3b44fb81a640c122326517/artifacts
+deleted_time: 1729591643805
+end_time: 1729591542883
+entry_point_name: ''
+experiment_id: '110595570574641665'
+lifecycle_stage: deleted
+run_id: 50fef6074b3b44fb81a640c122326517
+run_name: industrious-kite-745
+run_uuid: 50fef6074b3b44fb81a640c122326517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729591542845
+status: 4
+tags: []
+user_id: sanju

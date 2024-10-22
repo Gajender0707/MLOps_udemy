@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/110595570574641665/808aece2f106461fba03a7d332eca649/artifacts
+deleted_time: 1729591643805
+end_time: 1729591173489
+entry_point_name: ''
+experiment_id: '110595570574641665'
+lifecycle_stage: deleted
+run_id: 808aece2f106461fba03a7d332eca649
+run_name: resilient-hare-785
+run_uuid: 808aece2f106461fba03a7d332eca649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729591173472
+status: 4
+tags: []
+user_id: sanju

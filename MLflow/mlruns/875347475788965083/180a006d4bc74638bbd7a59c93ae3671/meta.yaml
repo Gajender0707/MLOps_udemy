@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/875347475788965083/180a006d4bc74638bbd7a59c93ae3671/artifacts
+end_time: 1729591631719
+entry_point_name: ''
+experiment_id: '875347475788965083'
+lifecycle_stage: active
+run_id: 180a006d4bc74638bbd7a59c93ae3671
+run_name: sedate-gnu-855
+run_uuid: 180a006d4bc74638bbd7a59c93ae3671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729591630069
+status: 3
+tags: []
+user_id: sanju
