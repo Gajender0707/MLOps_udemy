@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/c8592c92229048419aca7776b4c12f6c/artifacts
+end_time: 1729609389443
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: c8592c92229048419aca7776b4c12f6c
+run_name: popular-sloth-543
+run_uuid: c8592c92229048419aca7776b4c12f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609388186
+status: 3
+tags: []
+user_id: sanju

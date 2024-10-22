@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/c4c3af6acb554d7ea37235e0c6ea4d85/artifacts
+end_time: 1729609078431
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: c4c3af6acb554d7ea37235e0c6ea4d85
+run_name: clumsy-wren-381
+run_uuid: c4c3af6acb554d7ea37235e0c6ea4d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609078402
+status: 4
+tags: []
+user_id: sanju

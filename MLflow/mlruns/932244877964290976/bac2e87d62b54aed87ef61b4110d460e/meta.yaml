@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/bac2e87d62b54aed87ef61b4110d460e/artifacts
+end_time: 1729599589685
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: bac2e87d62b54aed87ef61b4110d460e
+run_name: glamorous-chimp-295
+run_uuid: bac2e87d62b54aed87ef61b4110d460e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729599589667
+status: 3
+tags: []
+user_id: sanju

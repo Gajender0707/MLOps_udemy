@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/8f40c57e893843eba60130d539b50586/artifacts
+end_time: 1729609383777
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: 8f40c57e893843eba60130d539b50586
+run_name: rare-snipe-831
+run_uuid: 8f40c57e893843eba60130d539b50586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609381929
+status: 3
+tags: []
+user_id: sanju

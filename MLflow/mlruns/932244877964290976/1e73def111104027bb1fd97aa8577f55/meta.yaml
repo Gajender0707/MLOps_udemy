@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/1e73def111104027bb1fd97aa8577f55/artifacts
+end_time: 1729600642036
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: 1e73def111104027bb1fd97aa8577f55
+run_name: traveling-roo-402
+run_uuid: 1e73def111104027bb1fd97aa8577f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729600640711
+status: 3
+tags: []
+user_id: sanju

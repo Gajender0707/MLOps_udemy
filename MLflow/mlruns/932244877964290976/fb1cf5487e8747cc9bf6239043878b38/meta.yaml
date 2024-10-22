@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/fb1cf5487e8747cc9bf6239043878b38/artifacts
+end_time: 1729609249051
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: fb1cf5487e8747cc9bf6239043878b38
+run_name: bald-auk-122
+run_uuid: fb1cf5487e8747cc9bf6239043878b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609249008
+status: 4
+tags: []
+user_id: sanju

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/78e32fa7597d4cb096863697be62df25/artifacts
+end_time: 1729599791907
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: 78e32fa7597d4cb096863697be62df25
+run_name: funny-carp-414
+run_uuid: 78e32fa7597d4cb096863697be62df25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729599789810
+status: 3
+tags: []
+user_id: sanju
