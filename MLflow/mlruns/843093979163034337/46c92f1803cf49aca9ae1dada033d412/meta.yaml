@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/843093979163034337/46c92f1803cf49aca9ae1dada033d412/artifacts
+end_time: 1729589202938
+entry_point_name: ''
+experiment_id: '843093979163034337'
+lifecycle_stage: active
+run_id: 46c92f1803cf49aca9ae1dada033d412
+run_name: kindly-robin-426
+run_uuid: 46c92f1803cf49aca9ae1dada033d412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729589202925
+status: 3
+tags: []
+user_id: sanju
