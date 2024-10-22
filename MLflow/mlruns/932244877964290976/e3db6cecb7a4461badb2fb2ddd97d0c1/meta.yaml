@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932244877964290976/e3db6cecb7a4461badb2fb2ddd97d0c1/artifacts
+end_time: 1729609480967
+entry_point_name: ''
+experiment_id: '932244877964290976'
+lifecycle_stage: active
+run_id: e3db6cecb7a4461badb2fb2ddd97d0c1
+run_name: crawling-mole-48
+run_uuid: e3db6cecb7a4461badb2fb2ddd97d0c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609479495
+status: 3
+tags: []
+user_id: sanju
