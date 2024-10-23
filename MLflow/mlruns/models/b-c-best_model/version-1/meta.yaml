@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729653234352
+current_stage: None
+description: ''
+last_updated_timestamp: 1729653234352
+name: b-c-best_model
+run_id: c8592c92229048419aca7776b4c12f6c
+run_link: ''
+source: mlflow-artifacts:/932244877964290976/c8592c92229048419aca7776b4c12f6c/artifacts/Decision-tree-path
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/932244877964290976/c8592c92229048419aca7776b4c12f6c/artifacts/Decision-tree-path
+user_id: null
+version: 1
